@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ Fun fact: You did not searched for my account probably.
+
+🔭 I’m currently working on flutter, dart, python, web 3, ML.
+
 <!--
 **raj457036/raj457036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=raj457036&color=00cc1a)
