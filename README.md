@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=raj457036&color=00cc1a)
+![](https://hit.yhype.me/github/profile?user_id=19155680&color=00cc1a)
