@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-⚡ Fun fact: You did not searched for my account probably.
-
 🔭 I’m currently working on flutter, dart, python, web 3, ML.
 
 <!--
