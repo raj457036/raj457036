@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on flutter, dart, python, web 3, ML.
+🔭 I’m currently working on llms, django, fastapi, nlp, flutter, ML, ...
+🌱 I’m currently learning prompting chat llms...
+📫 How to reach me: (linkedin)[https://www.linkedin.com/in/raj457036/]
+💬 Ask me about llms, prompt engineering or anime 😹
+😄 Pronouns: he/him
+⚡ Fun fact: you shouldn't be worrying about ai taking your job anytime soon.
 
 <!--
 **raj457036/raj457036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
