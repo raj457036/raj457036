@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning prompting chat llms...
 
-📫 How to reach me: (linkedin)[https://www.linkedin.com/in/raj457036/]
+📫 How to reach me: ![linkedin](https://www.linkedin.com/in/raj457036/)
 
 💬 Ask me about llms, prompt engineering or anime 😹
 
